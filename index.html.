@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+    <title>You Matter</title>
+    <meta charset="utf-8" />
+	  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+	  <!-- link the webpage's stylesheet -->
+	  <link rel="stylesheet" href="/style.css" />
+
+	  <!-- link the webpage's JavaScript file -->
+	  <script src="/script.js" defer></script>
+
+  </head>
+  
+  <body>
+  
+    <nav>
+    <div class="container">
+      <h1>You MATTER, You are ENOUPH</h1>
+      
+      <div class="menu">
+        <a href="index.html" class="is-active">Home</a>
+        <a href="support.html">Support</a>
+        <a href="action.html">Action</a>
+        <a href="about.html">About</a>
+      </div>
+     
+      <button class="hamburger">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+
+      
+        </div>
+    </nav>
+
+    <p2> You Matter </p2>
+    <p>Mental Health Matters</p>
+
+
+    <img src="assets/brain.png" alt="A shadow of a human with flowers as its brain. Showcasting Mental Health." class="center" height="600px" width="150px">
+
+<video class="center" controls>
+  <source src="assets/matter.mp4" type="video/mp4">
+</video>
+
+
+
+<b2>What is Mental Health?</b2>
+
+<small>As defined by MentalHealth.gov: Mental health includes our emotional, psychological, and social well-being. It encompasses how one interacts with others and the world. Mental health can affect relationships, behavior, and emotions. 
+</small>
+
+<info> Why is Mental Health Important?</info>
+
+<sun> Mental Health is important because it affects everything. Its important in every stage of our lives. Taking care of our mental health is our strenght and recovery.
+</sun>
+
+<important>
+  As defined by Sarah Browne: If someone had cancer, we would not blame them for this disease in their bodies. So why do we place stigma and blame on mental health issues in the brain?
+</important>
+
+    <car>
+  Value your mental health
+</car>
+    
+<list>
+  <ul>
+  <li>•Stress & Anxiety- When stress infiltrates our body, we start to shut down. How we cope with stress is everything. Untreated mental health issues can lead to further falling apart. (Sarah Browne)</li>
+  <li>•Depression</li>
+  <li>•Suicide</li>
+</ul>
+</list>
+
+
+<hey>
+  <ul>
+  <li>•Desicion Making</li>
+  <li>•Relationships</li>
+  <li>•Thoughts</li> 
+  <li>•Self Harm</li>
+</ul>
+</hey>
+
+<strong>
+  When we feel better, we do better.
+</strong>
+
+
+    <p3>
+Video courtesy of 
+<a href="https://www.saskatchewan.ca/mental-health-awareness" target="_blank">Government ofSaskatchewan</a>.
+</p3>
+
+  </body>
+</html>
